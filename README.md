@@ -13,8 +13,6 @@ Nesse sistema de dados efetuamos uma busca dos últimos resultados de ações na
 
 ## Front-end 
 - Matplotlib
-# Implantação
-- Jupyter
 
 # Desenvolvedor
 Lucas William
